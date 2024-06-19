@@ -1,5 +1,5 @@
 {
-    "useSideMenu": true,
+    "useSideMenu": false,
     "additionalFooterText": "PyMO Ecosphere, Powered by MDwiki",
     "title": "PyMO Wiki"
 }

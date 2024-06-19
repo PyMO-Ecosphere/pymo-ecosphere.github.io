@@ -7,6 +7,8 @@ pymo (Python Memories Off) 是一个针对手机设计的AVG游戏引擎。
 pymo是由chen_xin_ming开发的开源软件。
 pymo遵循BSD许可证，欢迎任何人下载代码或对代码作出改进。
 
+![screenshot](https://www.pymogames.com/images/game_screenshot/MO1_2.png)
+
 pymo支持的平台：
 
 - Android 2.2+
