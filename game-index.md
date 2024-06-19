@@ -8,3 +8,4 @@
 
 该网站由 PyMO 生态圈 所维护，目标是**收录世界上所有的 pymo 游戏作品**，但包含争议内容，故仅限 PyMO 生态圈成员访问。
 你可以加入 pymo技术交流QQ群 以了解更多信息：170814321。
+你可以在[这里](https://pymo-ecosphere.github.io/PyMO-Index/)打开 PyMO Index，但需要输入密码。
