@@ -25,7 +25,7 @@ pymo支持的平台：
 
 ## 关于 CPyMO
 
-CPyMO 是由[弦语蝶梦游戏工作室](http://xydm.xyz)开发和维护的 pymo 引擎的C语言复刻。
+CPyMO 是由[弦语蝶梦游戏工作室](http://xydm.xyz)和 PyMO 生态圈 共同开发和维护的 pymo 引擎的C语言复刻。
 该引擎旨在各种复古和现代平台上运行 pymo 游戏，并同时提供更强大的增强功能（CPyMO HD）。
 CPyMO 遵循 AGPL v3 许可证。
 
